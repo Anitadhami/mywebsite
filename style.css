@@ -1,0 +1,137 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  font-family: 'Merriweather Sans', sans-serif;
+  line-height:1.5;
+}
+.hr{
+  margin: auto;
+  height: 0px;
+  width: 10%;
+  border-style:dotted none none;
+border-width: 10px;
+border-color: grey;
+}
+
+h1 {
+  color: #00a1ab;
+  margin: 0 auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  font-size: 60px;
+}
+
+h2 {
+  font-family: 'Courgette', cursive;
+  font-family: 'Montserrat', sans-serif;
+  font-family: 'Oxygen Mono', monospace;
+  font-family: 'Permanent Marker', cursive;
+  font-family: 'Sriracha', cursive;
+  font-weight: normal;
+}
+
+h3 {  font-size: 20px;
+  font-family: 'Courgette', cursive;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.top {
+  background-color: #9bdeac;
+  height: auto;
+  position: relative;
+  padding-top: 100px;
+}
+
+.topcloud {
+  position: absolute;
+  top: 50px;
+  padding-left: 150px;
+}
+
+.bottomcloud {
+  position: absolute;
+  left: 400px;
+}
+
+.c {
+  width: 100px;
+  height: 100px
+}
+
+.cp {
+  width: 100px;
+  height: 100px
+}
+
+.java {
+  width: 100px;
+  height: 100px
+}
+
+.html {
+  width: 100px;
+  height: 100px
+}
+
+.css {
+  width: 100px;
+  height: 100px
+}
+
+.js {
+  width: 100px;
+  height: 100px
+}
+
+.link {
+  width: 50px;
+  height: 50px
+}
+
+.instagram {
+  width: 50px;
+  height: 50px;
+}
+
+.facebook {
+  width: 80px;
+  height: 80px;
+}
+
+.mail {
+  width: 50px;
+  height: 50px;
+}
+
+.skills {
+  position: relative;
+}
+.skil1{
+  float: left;
+}
+.ilovecode{
+  display: inline-block;
+height: 200px;
+width: 200px;
+left: 100px;
+}
+ .subdiv{
+   position: relative;
+
+ }
+
+.sub1{
+  position: absolute;
+  left: 200px;
+}
+
+.sub{height: 200px;
+  top: 100px;
+width: 200px; position: absolute;
+  right: 200px;
+}
+.bottom-container {
+  background-color: #18b0b0;
+  height: auto;
+  width: auto;
+}
